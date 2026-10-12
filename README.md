@@ -20,6 +20,13 @@
 * **Apollo Server**
 * **GraphQL**
 
+## Como ejecutarlo
+
+* Clonar el repositorio con git clone
+* Acceder a la carpeta de ejemplo
+* Instalar las dependencias con npm install
+* Iniciar el servidor con npm start
+
 ##  Estructura del Proyecto
 
 ```text
@@ -30,10 +37,3 @@ Manual-GraphQL-Vilchez/
 │   └── package-lock.json    # Árbol de dependencias
 ├── .gitignore               # Exclusión de node_modules
 └── README.md                # Descripción del repositorio
-
-## Como ejecutarlo
-
-* Clonar el repositorio con git clone
-* Acceder a la carpeta de ejemplo
-* Instalar las dependencias con npm install
-* Iniciar el servidor con npm start
