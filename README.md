@@ -22,6 +22,7 @@
 
 ##  Estructura del Proyecto
 
+```text
 Manual-GraphQL-Vilchez/
 ├── ejemplo/
 │   ├── index.js             # Servidor Apollo con Schema, Resolvers y datos de prueba
